@@ -1,0 +1,17 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/PatronMixinTest.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/PatronMixinTest.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/PatronMixinTest.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/PatronMixinTest.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/PatronMixinTest.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/PatronMixin.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/bin/Debug/netcoreapp2.1/PatronMixin.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/obj/Debug/netcoreapp2.1/PatronMixinTest.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/obj/Debug/netcoreapp2.1/PatronMixinTest.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/obj/Debug/netcoreapp2.1/PatronMixinTest.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/obj/Debug/netcoreapp2.1/PatronMixinTest.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/obj/Debug/netcoreapp2.1/PatronMixinTest.csproj.CopyComplete
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/obj/Debug/netcoreapp2.1/PatronMixinTest.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinTest/obj/Debug/netcoreapp2.1/PatronMixinTest.pdb

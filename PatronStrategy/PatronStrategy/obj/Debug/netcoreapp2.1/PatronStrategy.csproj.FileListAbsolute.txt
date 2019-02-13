@@ -1,0 +1,11 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp2.1/PatronStrategy.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp2.1/PatronStrategy.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp2.1/PatronStrategy.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp2.1/PatronStrategy.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/bin/Debug/netcoreapp2.1/PatronStrategy.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp2.1/PatronStrategy.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp2.1/PatronStrategy.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp2.1/PatronStrategy.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp2.1/PatronStrategy.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp2.1/PatronStrategy.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategy/obj/Debug/netcoreapp2.1/PatronStrategy.pdb

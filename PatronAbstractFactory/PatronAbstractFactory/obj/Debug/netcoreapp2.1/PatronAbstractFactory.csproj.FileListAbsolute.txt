@@ -1,0 +1,11 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/bin/Debug/netcoreapp2.1/PatronAbstractFactory.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/bin/Debug/netcoreapp2.1/PatronAbstractFactory.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/bin/Debug/netcoreapp2.1/PatronAbstractFactory.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/bin/Debug/netcoreapp2.1/PatronAbstractFactory.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/bin/Debug/netcoreapp2.1/PatronAbstractFactory.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/obj/Debug/netcoreapp2.1/PatronAbstractFactory.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/obj/Debug/netcoreapp2.1/PatronAbstractFactory.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/obj/Debug/netcoreapp2.1/PatronAbstractFactory.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/obj/Debug/netcoreapp2.1/PatronAbstractFactory.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/obj/Debug/netcoreapp2.1/PatronAbstractFactory.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronAbstractFactory/PatronAbstractFactory/obj/Debug/netcoreapp2.1/PatronAbstractFactory.pdb

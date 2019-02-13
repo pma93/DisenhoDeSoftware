@@ -1,0 +1,11 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/bin/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/bin/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/bin/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/bin/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/bin/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/obj/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/obj/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/obj/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/obj/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/obj/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronCompositeEnlaceDir/obj/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.pdb

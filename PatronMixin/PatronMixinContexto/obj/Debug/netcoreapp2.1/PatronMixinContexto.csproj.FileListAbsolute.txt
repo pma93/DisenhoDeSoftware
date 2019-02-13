@@ -1,0 +1,11 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/bin/Debug/netcoreapp2.1/PatronMixinContexto.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/bin/Debug/netcoreapp2.1/PatronMixinContexto.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/bin/Debug/netcoreapp2.1/PatronMixinContexto.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/bin/Debug/netcoreapp2.1/PatronMixinContexto.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/bin/Debug/netcoreapp2.1/PatronMixinContexto.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/obj/Debug/netcoreapp2.1/PatronMixinContexto.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/obj/Debug/netcoreapp2.1/PatronMixinContexto.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/obj/Debug/netcoreapp2.1/PatronMixinContexto.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/obj/Debug/netcoreapp2.1/PatronMixinContexto.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/obj/Debug/netcoreapp2.1/PatronMixinContexto.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronMixin/PatronMixinContexto/obj/Debug/netcoreapp2.1/PatronMixinContexto.pdb

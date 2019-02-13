@@ -1,0 +1,4 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronObserver/PatronObserver/obj/Debug/netcoreapp2.1/PatronObserver.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronObserver/PatronObserver/obj/Debug/netcoreapp2.1/PatronObserver.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronObserver/PatronObserver/obj/Debug/netcoreapp2.1/PatronObserver.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronObserver/PatronObserver/obj/Debug/netcoreapp2.1/PatronObserver.AssemblyInfo.cs

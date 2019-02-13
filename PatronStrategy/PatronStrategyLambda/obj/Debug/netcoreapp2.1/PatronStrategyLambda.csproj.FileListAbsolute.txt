@@ -1,0 +1,11 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/bin/Debug/netcoreapp2.1/PatronStrategyLambda.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/bin/Debug/netcoreapp2.1/PatronStrategyLambda.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/bin/Debug/netcoreapp2.1/PatronStrategyLambda.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/bin/Debug/netcoreapp2.1/PatronStrategyLambda.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/bin/Debug/netcoreapp2.1/PatronStrategyLambda.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/obj/Debug/netcoreapp2.1/PatronStrategyLambda.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/obj/Debug/netcoreapp2.1/PatronStrategyLambda.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/obj/Debug/netcoreapp2.1/PatronStrategyLambda.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/obj/Debug/netcoreapp2.1/PatronStrategyLambda.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/obj/Debug/netcoreapp2.1/PatronStrategyLambda.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronStrategy/PatronStrategyLambda/obj/Debug/netcoreapp2.1/PatronStrategyLambda.pdb

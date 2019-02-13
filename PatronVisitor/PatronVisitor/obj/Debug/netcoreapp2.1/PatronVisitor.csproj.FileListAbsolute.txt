@@ -1,0 +1,11 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/bin/Debug/netcoreapp2.1/PatronVisitor.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/bin/Debug/netcoreapp2.1/PatronVisitor.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/bin/Debug/netcoreapp2.1/PatronVisitor.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/bin/Debug/netcoreapp2.1/PatronVisitor.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/bin/Debug/netcoreapp2.1/PatronVisitor.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/obj/Debug/netcoreapp2.1/PatronVisitor.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/obj/Debug/netcoreapp2.1/PatronVisitor.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/obj/Debug/netcoreapp2.1/PatronVisitor.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/obj/Debug/netcoreapp2.1/PatronVisitor.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/obj/Debug/netcoreapp2.1/PatronVisitor.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronVisitor/PatronVisitor/obj/Debug/netcoreapp2.1/PatronVisitor.pdb

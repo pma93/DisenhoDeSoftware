@@ -1,0 +1,17 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/CompositeEnlaceDirTest.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/CompositeEnlaceDirTest.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/CompositeEnlaceDirTest.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/CompositeEnlaceDirTest.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/CompositeEnlaceDirTest.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/obj/Debug/netcoreapp2.1/CompositeEnlaceDirTest.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/obj/Debug/netcoreapp2.1/CompositeEnlaceDirTest.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/obj/Debug/netcoreapp2.1/CompositeEnlaceDirTest.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/obj/Debug/netcoreapp2.1/CompositeEnlaceDirTest.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/obj/Debug/netcoreapp2.1/CompositeEnlaceDirTest.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/obj/Debug/netcoreapp2.1/CompositeEnlaceDirTest.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/bin/Debug/netcoreapp2.1/PatronCompositeEnlaceDir.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/CompositeEnlaceDirTest/obj/Debug/netcoreapp2.1/CompositeEnlaceDirTest.csproj.CopyComplete

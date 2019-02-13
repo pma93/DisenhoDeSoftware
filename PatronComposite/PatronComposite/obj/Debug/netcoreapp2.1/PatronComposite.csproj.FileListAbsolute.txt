@@ -1,0 +1,11 @@
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/bin/Debug/netcoreapp2.1/PatronComposite.deps.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/bin/Debug/netcoreapp2.1/PatronComposite.runtimeconfig.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/bin/Debug/netcoreapp2.1/PatronComposite.runtimeconfig.dev.json
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/bin/Debug/netcoreapp2.1/PatronComposite.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/bin/Debug/netcoreapp2.1/PatronComposite.pdb
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/obj/Debug/netcoreapp2.1/PatronComposite.csprojAssemblyReference.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/obj/Debug/netcoreapp2.1/PatronComposite.csproj.CoreCompileInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/obj/Debug/netcoreapp2.1/PatronComposite.AssemblyInfoInputs.cache
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/obj/Debug/netcoreapp2.1/PatronComposite.AssemblyInfo.cs
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/obj/Debug/netcoreapp2.1/PatronComposite.dll
+/Users/pablomartinezarana/Dropbox/Carrera-Informatica/Cuarto/PrimerCuatri/DiseñoDeSoftware/practicas/PatronComposite/PatronComposite/obj/Debug/netcoreapp2.1/PatronComposite.pdb
